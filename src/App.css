@@ -1,5 +1,13 @@
 
-
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    
+    
+}
 .navigation-items {
   list-style: none;
   text-decoration: none;
@@ -15,6 +23,15 @@ li {
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   padding-inline-start: 40px;
+}
+.forecast-day {
+    color: #bababa;
+    font-size: 13px;
+    font-weight: 400;
+    height: 15px;
+    line-height: 15px;
+    text-align: center;
+    white-space: nowrap;
 }
 .weather-detail__text{
   color: #61dafb;
@@ -39,6 +56,13 @@ h1{
 
 .App-link {
   color: #61dafb;
+}
+
+.row{
+  display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
 }
 
 @keyframes App-logo-spin {
