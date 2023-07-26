@@ -105,6 +105,16 @@ function App() {
             </div>
           </div>
         </header>
+        <small>
+          <a
+            href="https://github.com/wecodeschool/react-weather"
+            target="_blank"
+          >
+            Open-source code
+          </a>
+          , by <a href="https://www.matdelac.io">Matt Delac</a> from{" "}
+          <a href="https://shecodes.io/">She Codes</a>
+        </small>
       </div>
     </div>
   );
