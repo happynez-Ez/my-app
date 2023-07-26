@@ -106,14 +106,10 @@ function App() {
           </div>
         </header>
         <small>
-          <a
-            href="https://github.com/wecodeschool/react-weather"
-            target="_blank"
-          >
+          <a href="https://github.com/happynez-Ez/my-app" target="_blank">
             Open-source code
           </a>
-          , by Ezinne Happiness from
-          She Codes
+          , by Ezinne Happiness from She Codes
         </small>
       </div>
     </div>
