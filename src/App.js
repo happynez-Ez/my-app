@@ -112,8 +112,8 @@ function App() {
           >
             Open-source code
           </a>
-          , by <a href="https://www.matdelac.io">Matt Delac</a> from{" "}
-          <a href="https://shecodes.io/">She Codes</a>
+          , by Ezinne Happiness from
+          She Codes
         </small>
       </div>
     </div>
