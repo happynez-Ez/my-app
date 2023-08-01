@@ -106,7 +106,7 @@ function App() {
           </div>
         </header>
         <small>
-          <a href="https://github.com/happynez-Ez/my-app" target="_blank">
+          <a href="https://github.com/happynez-Ez/my-app">
             Open-source code
           </a>
           , by Ezinne Happiness from She Codes
